@@ -10,3 +10,4 @@ Welcome to my professional documentation portfolio. Below you will find my curre
 ## Contact Information
 *   **Email:** michelledalton2026@gmail.com
 *   **LinkedIn:** www.linkedin.com/in/daltonmichelle
+ 
