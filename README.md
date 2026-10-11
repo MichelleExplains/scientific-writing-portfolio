@@ -4,7 +4,9 @@ Welcome to my professional documentation portfolio featuring my resume and techn
 
 ## Portfolio Directory
 
-*   [Professional Resume](resume.html) - Overview of my remote instructional communication and scientific background.
-*   [Standard Operating Procedure: Fungal Symbionts](SOP-MYC-042.html) - Laboratory manual covering isolation and molecular verification.
+*   [Professional Resume](resume.md)
+*   [Standard Operating Procedure: Fungal Symbionts](SOP-MYC-042.md)
 
 ## Contact Information
+*   **Email:** michelledalton2026@gmail.com
+*   **LinkedIn:** https://linkedin.com
