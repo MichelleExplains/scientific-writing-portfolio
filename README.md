@@ -8,5 +8,5 @@ Welcome to my professional documentation portfolio featuring my resume and techn
 *   [Standard Operating Procedure: Fungal Symbionts](SOP-MYC-042.md)
 
 ## Contact Information
-*   **Email:** michelledalton2026@gmail.com
+*   **Email:** [michelledalton2026@gmail.com](mailto:michelledalton2026@gmail.com)
 *   **LinkedIn:** https://linkedin.com
