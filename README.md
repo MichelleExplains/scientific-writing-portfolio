@@ -4,8 +4,8 @@ Welcome to my professional documentation portfolio. Below you will find my curre
 
 ## Portfolio Directory
 
-*   [Professional Resume](resume.md) - A comprehensive overview of my 6 years of remote instructional communication and chemical technician background.
-*   [Standard Operating Procedure: Fungal Symbionts](SOP-MYC-042.md) - A full-scale laboratory manual covering isolation, surface sterilization, and downstream molecular verification (DNA barcoding).
+*   [Professional Resume](resume.html) - A comprehensive overview of my 6 years of remote instructional communication and chemical technician background.
+*   [Standard Operating Procedure: Fungal Symbionts](SOP-MYC-042.html) - A full-scale laboratory manual covering isolation, surface sterilization, and downstream molecular verification (DNA barcoding).
 
 ## Contact Information
 *   **Email:** michelledalton2026@gmail.com
