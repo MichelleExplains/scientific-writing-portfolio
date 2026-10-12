@@ -1,5 +1,5 @@
 # MichelleExplains
-Oregon, USA (Open to Remote) | 541-363-2427 | michelledalton2016@gmail.com | https://github.com
+Oregon, USA (Open to Remote) | 541-363-2427 | michelledalton2016@gmail.com |  https://michelleexplains.github.io/scientific-writing-portfolio/
 
 ## Professional Summary
 **Scientific Technical Writer** with a strong background in science education and communication. Blends 6 years of experience as an online tutor for Air Tutors with a solid academic foundation in the sciences (BS in Biology, Chemistry minor). Proven ability to take complicated scientific topics and turn them into clear, easy-to-understand explanations and step-by-step guides for students of all ages. 
