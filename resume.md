@@ -1,5 +1,5 @@
 # Michelle Dalton
-Oregon, USA (Open to Remote) | michelledalton2016@gmail.com | https://github.io
+Oregon, USA (Open to Remote) | michelledalton2016@gmail.com |  https://michelleexplains.github.io/scientific-writing-portfolio/
 
 ## Professional Summary
 **Scientific Technical Writer** with a strong background in science education, laboratory workflows, and digital communication. Blends 8 years of continuous remote instructional experience (Air Tutors and VIPKid) with an extensive hands-on university laboratory background. Proven ability to translate dense scientific concepts, laboratory protocols, and complex data into clear, step-by-step documentation and easy-to-follow user guides.
