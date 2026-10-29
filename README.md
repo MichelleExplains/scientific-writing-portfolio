@@ -1,12 +1,32 @@
-# Scientific Technical Writing Portfolio
+# Michelle Dalton | Technical Data & Structural Text Auditor
 
-Welcome to my professional documentation portfolio featuring my resume and technical writing samples.
+A precision-focused text specialist and life sciences graduate specializing in data verification, curriculum quality control, and structural layout auditing for remote content operations.
 
-## Portfolio Directory
+---
 
-*   [Professional Resume](resume.md)
-*   [Standard Operating Procedure: Fungal Symbionts](SOP-MYC-042.md)
+## 🛠️ Core Functional Capabilities
 
-## Contact Information
-*   **Email:** [michelledalton2016@gmail.com](mailto:michelledalton2016@gmail.com)
-*   **LinkedIn:** https://linkedin.com
+*   **Layout Verification:** Cross-referencing complex data matrices and text layout blocks against rigid, multi-page compliance rubrics.
+*   **Scientific Nomenclature:** Auditing academic text strings and instructional frameworks to ensure perfect nomenclature and technical alignment.
+*   **Workspace Optimization:** Structuring asynchronous document data pipelines using G-Suite with zero margin for validation error.
+
+---
+
+## 📋 Professional Framework Implementations
+
+### Standard Operating Procedure (SOP) Audit
+*   **Documentation Code:** `SOP-MYC-042.md`
+*   **Focus:** Structural text layouts, compliance checking, and precise formatting integrity.
+*   **Skills Demonstrated:** Markdown taxonomy verification, step-by-step documentation auditing, and strict style playbook adherence.
+
+### Technical Text & Instruction Alignment Proof
+*   **Documentation Code:** `cellular-division-proof.md` (Standby Ready)
+*   **Focus:** Translating dense biological concepts into highly structured, clean layout formats.
+*   **Skills Demonstrated:** Linguistic precision, contrast-case evaluation, and logical syntax calibration.
+
+---
+
+## 🎯 Active Operational Focus Areas
+*   Science Curriculum & Learning Content Quality Control
+*   Asynchronous Data Validation & Quality Assurance (QA)
+*   Content Integrity & Multi-Page Rubric Tracking
