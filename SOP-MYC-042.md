@@ -8,7 +8,7 @@
 ---
 
 ## 1.0 Purpose and Scope
-This Standard Operating Procedure (SOP) defines the systematic validation sequence for auditing automated scientific text strings, structural layout data, and lesson curriculum frameworks. The objective is to enforce 100% nomenclature accuracy, visual consistency, and data integrity prior to external system deployment or student-facing instructional delivery.
+This Standard Operating Procedure (SOP) defines the systematic validation sequence for auditing automated scientific text strings, structural layout data, and lesson curriculum frameworks. The objective is to enforce nomenclature accuracy, visual consistency, and data integrity prior to external system deployment or student-facing instructional delivery.
 
 ---
 
